@@ -4,6 +4,9 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+/* Customs Styles */
+
+/*  crapemyrtle-btn-book-now Styles */
 .crapemyrtle-btn-book-now {
   background-color: white;
   /* color: white; */
@@ -11,9 +14,17 @@ body {
   padding: 9px 25px;
   border: none;
 }
+
+/*  crapemyrtle-btn-book-now Styles */
 .crapemyrtle-btn-choose-plan {
   background-color: #ecd2e3ad;
 }
+
+/*  crapemyrtle-btn-book-now Styles */
 .crapemyrtle-hot-tag {
   margin-top: -50px;
+}
+
+.hot-border-round {
+  border-radius: 20px;
 }
