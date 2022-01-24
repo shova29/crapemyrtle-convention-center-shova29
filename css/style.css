@@ -4,3 +4,14 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.crapemyrtle-btn-book-now {
+  background-color: white;
+  /* color: white; */
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
+.crapemyrtle-btn-choose-plan {
+  background-color: #ecd2e3ad;
+  /* opacity: 0.1; */
+}
