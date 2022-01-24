@@ -13,5 +13,7 @@ body {
 }
 .crapemyrtle-btn-choose-plan {
   background-color: #ecd2e3ad;
-  /* opacity: 0.1; */
+}
+.crapemyrtle-hot-tag {
+  margin-top: -50px;
 }
